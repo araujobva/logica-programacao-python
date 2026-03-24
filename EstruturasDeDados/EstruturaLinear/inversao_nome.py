@@ -2,4 +2,5 @@
 
 nome = input("Digite o nome >>> ")
 nome = nome[::-1]
+print()
 print("Nome invertido >>> ",nome)
